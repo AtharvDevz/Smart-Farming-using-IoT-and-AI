@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "farmmonitoring",
+  "private_key_id": "5b63e966216f9d64c1f5649a0cd19619c7191d3c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSHqZMmz/2pg/4\nzcicwzSCzh3cVHIS+C0o/UAp3Do/XN0a8z0rk+7BvN6uIwZDYgYfDATYdzcYsUW1\nU/AaIqxELg9xxexTi+maGmxY6cGDirdoyDeC/1Y1BsLUualyOEZeCck0ltQAVOwz\n9sF51aFeo7X+jh+kf1r1FgI9/ahaBk3AOUwYdvmbTo6baoDIYE4EWyKHkbTMssuV\nzL73IVgRLRItFbtcYXlgeFYkLtLPCKXPboTrfbZR+trbs67wCeLPhNGHrKBiIxRA\nq9tT7yM/cHo1vcJ+yvtYQBxOupRItzTH6t6W4tztL0szPYoVRZI6uocNVa7Ef6z5\nDdpJ3TeZAgMBAAECggEACAdFReXkW1rW1I7HqfENzitXeejHxLXzAx8CvFwOkAdk\nPbMfuiJIdrfDehEFsdM/63WaBXZapn4hgnnppun+aIrVABJ2rZjfN7Tnlmcfbn9W\nnjGQ6MJeVh+DGBMxqFcCSKC5mCGPifq0srtB2GijUOUoSfNpaJo4IhIG9bzohECp\n0BFyX5q6Bzh+O8AdEPD1+kj7AsDAUINNFZtpwUBZ7iZKkR5yrEHxYErYqeQ/9ST3\n60AKa4QApyufsZmDsuq1vN0PPTrK2pmkjQ6ug9nBkO3ELDdo0PenPMfSB2/2Vs8J\nO32xNHdPPrH5XIIrvKmNMVKE5s+6OgicX+yGazIKIQKBgQD3nIMhgiKFPXJnODjU\nzww3+PXuRnexkrmIOMuzR9HRX10HD2y8tbEIZwJVDTKLLfjd/Fzuq+D/Vn/IewgR\ncJOjvWUPrkWMNnD8Qw0QgNBBeVa6aevxg9QAWlqTEqKw0sJsrD148A3Aw0VNhYOg\nzrn4/k2RLo5E02lnXHYSu81rqQKBgQDZPPqtTc+W1UQWQW4glQbOZYj488uRQsD/\n3WRYVZCUMqESHpZVOuGVrXh2XF4xHVeKqrMFYOfL1CcB7ejZDBEy45g8oraZWUQx\n3ojhp0cNDPTozUj5Xc9nYfFYrokZsXfzcZG9dCPz5FbP7C/yv8or5vZ1PoyxsO9z\nJPk05WpicQKBgQC2aEc1rR9vFkgr///lza1LoozRfnn4h4VD88skBFluKxll9Rf+\noL6M2Q2fyDweybwXFC0F6fqzP26dKv1Tk6I/sms7tP8o/oYXX/HE4ZAJW7DnXNZi\nseHAbM9inwzYxDpUQkJ60CThhziLljrUgNYBtp0/wZMu4qs4aKXWwSDgGQKBgCrb\nNdT0scxe3GTLma9B1yrmqwP6DKHmmm6fvYkTsEccSdxqPlwoFpLRux8Wj9p+oGOR\n02lvOatjeiKOTc5r7ASvE7x6mS1dh++SqExkFMdFVBeNUCUp1Z3em59UJ2XzNefH\n8ul+PQ2DcYDpZngsT/UjRmHQ6i6v6j08ARHnZHpxAoGAKm7gqHi9eW7F9QFn/Adu\n/3+eQev7aT/F5f2CyK1h0bJtGYnOIhX8qUYfTBqJI2BYc2/p4hRePD3vuxzHpUMO\nnXmwmdKUYwqMjMS9YCkTzUYFfdOzxeG5tiTlB5IuvdPMuP1SU8e+3/MhFvILgA+5\nETXCzAuv9aYmeiyY4+ciV0I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "apollonion72@farmmonitoring.iam.gserviceaccount.com",
+  "client_id": "116436207763253677437",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apollonion72%40farmmonitoring.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
