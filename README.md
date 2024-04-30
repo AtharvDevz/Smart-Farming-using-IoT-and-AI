@@ -1,5 +1,3 @@
-I'd be glad to create a GitHub README file for your project, incorporating the best aspects of the provided responses and addressing potential shortcomings:
-
 Smart Farming using IoT and AI
 
 This project is an innovative Internet of Things (IoT) and Artificial Intelligence (AI) system designed to optimize plant care by providing real-time environmental monitoring and AI-powered recommendations.
@@ -26,12 +24,14 @@ Benefits:
 
 Getting Started
 
-1. Prerequisites
+1. NodeMCU Connection and Code
+   * Connection is Availible in the images Folder and the Board Code is in board_code Folder
+2.  Prerequisites
     * FastAPI installed on your system. run Command (pip install fastapi and pip install uvicorn)
     * A basic understanding of Python, FastAPI, HTML, CSS, and JavaScript.
     * Download the Required JSON File of Credential and API Key from Your Google Cloud Account
     * Add Gemini API Key in .env File
-2. Clone the Repository:
+3. Clone the Repository:
    ```bash
    git clone https://github.com/Atharv/Smart-Farming-using-IoT-and-AI.git
    ```
