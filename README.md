@@ -28,6 +28,10 @@ Getting Started
    * Connection is Availible in the images Folder and the Board Code is in board_code Folder
 2.  Prerequisites
     * FastAPI installed on your system. run Command (pip install fastapi and pip install uvicorn)
+      Run Commands
+      ```bash
+      pip install uvicorn
+      pip install fastapi
     * A basic understanding of Python, FastAPI, HTML, CSS, and JavaScript.
     * Download the Required JSON File of Credential and API Key from Your Google Cloud Account
     * Add Gemini API Key in .env File
@@ -38,6 +42,9 @@ Getting Started
 4. Set Up Database
    - Create Google sheet Script code to add the data in file through HTTP Get Request. (In the File GSScript.txt)
    - Configure your database connection details in the backend code.
+   - Install gsspread module
+     ```bash
+     pip install gs-spread   
 5. Run the Server:
    ```bash
    uvicorn app:app --reload
