@@ -14,23 +14,23 @@ const char* sensorType = "MQ-135";
 float Rclean = 10; 
 float Vheat = 5; 
  
-const char* ssid = ""; //--> Your wifi name or SSID.
-const char* password = ""; //--> Your wifi password.
+const char* ssid = ""; // Your wifi name or SSID.
+const char* password = ""; // Your wifi password.
  
 const char* host = "script.google.com";
 const int httpsPort = 443;
  
-String GAS_ID = ""; //--> spreadsheet script ID
+String GAS_ID = ""; // spreadsheet script ID
  
 void setup() {
   Serial.begin(115200);
   Serial.println("Starting...");
   delay(500);
  
-  dht.begin();  //--> Start reading DHT11 sensors
+  dht.begin(); 
   delay(500);
   
-  WiFi.begin(ssid, password); //--> Connect to your WiFi router
+  WiFi.begin(ssid, password); // Connect to your WiFi router
   Serial.println("");
   Serial.print("Connecting");
   while (WiFi.status() != WL_CONNECTED) {
@@ -83,8 +83,8 @@ void loop() {
  
 // Subroutine for sending data to Google Sheets
 void sendData(float temp, float hum, float moistPercent, int airQuality, float voc) {
-  String scriptUrl = "https://script.google.com/macros/s//exec?"; // Add Url After adding script in your google sheets
-//  Data Will be Sppended by get request at this url
+  String scriptUrl = "https://script.google.com/macros/s//exec?";
+//  Data Will be Appended by get request at this url
   scriptUrl += "?temperature=" + String(temp);
   scriptUrl += "&humidity=" + String(hum);
   scriptUrl += "&moisture=" + String(moistPercent);
