@@ -1,4 +1,4 @@
-##Smart Farming using IoT and AI
+#Smart Farming using IoT and AI
 
 This project is an innovative Internet of Things (IoT) and Artificial Intelligence (AI) system designed to optimize plant care by providing real-time environmental monitoring and AI-powered recommendations.
 
