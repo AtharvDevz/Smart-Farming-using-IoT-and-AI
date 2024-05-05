@@ -10,7 +10,7 @@ Key Features:
     * Temperature & Humidity (DHT11 sensor)
 * Data Transmission: Efficiently transmits sensor readings through HTTP requests.
 * FastAPI Backend: Leverages the FastAPI framework for robust data processing, communication with the user interface, and future integration of an AI model.
-* Database Storage: Employs a dedicated database (consider PostgreSQL or MySQL) for reliable sensor readings and historical data storage (replacing Google Sheets for enhanced scalability).
+* Database Storage: Using Google Sheets for easier Operations can use any other database
 * User-Friendly Interface: Developed with HTML, CSS, and JavaScript, delivering real-time data visualization through charts and graphs. Additionally, it offers a user-friendly chat interface for interaction with the AI component.
 * Current AI Integration: Provides a chat interface where users can interact with me (Gemini) for initial plant-specific care advice based on sensor data.
 * Future AI Integration: The architecture is designed to seamlessly integrate a trained AI model in the backend for more sophisticated plant care recommendations based on sensor readings and plant type.
